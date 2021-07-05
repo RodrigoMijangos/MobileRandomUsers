@@ -1,6 +1,6 @@
 # project_app_1
 
-A new Flutter project.
+A project with a view that contains Ramdon Users for practice porpuse only.
 
 ## Getting Started
 
